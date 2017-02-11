@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+    <meta charset="utf-8">
+    <title>document</title>
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+
+
+
+</head>
+
+<body>
+
+    <div class="look">
+        <!-- header-->
+        <div>
+            <div upper>
+                <div>menu</div>
+                <div>search</div>
+            </div>
+            <div class="middle">
+                <div>solutions</div>
+                <div>products</div>
+                <div>succesStories</div>
+                <div>Resources</div>
+                <div>events</div>
+                <div>aboutUs</div>
+
+
+            </div class="slider">
+            <!--slider start-->
+            <div>
+                <div>
+
+
+
+                </div>
+
+            </div>
+            <!--slider end-->
+        </div>
+
+        <!-- header end-->
+        <!--content start-->
+        <div>
+            <div class="clientLogo">
+                <div>clientLogo</div>
+                <div>clientLogo</div>
+                <div>clientLogo</div>
+                <div>clientLogo</div>
+                <div>clientLogo</div>
+                <div>clientLogo</div>
+
+            </div>
+            <div class="graphics">
+                <div>graphics</div>
+                <div>graphics</div>
+                <div>graphics</div>
+            </div>
+
+
+
+        </div>
+
+        <!-- content end-->
+        <!--footer-->
+        <div>
+
+            <div class="footer">
+                <div>phoneNumber</div>
+                <div>emailAdress</div>
+                <div>inFollowUs</div>
+                <div>youtubeSubscribe</div>
+                <div>inShare</div>
+            </div>
+            <div class="footerEnd">
+                <div>allRightsRecerved</div>
+                <div>websiteByMerixstudio</div>
+            </div>
+
+        </div>
+        <!--footer end-->
+
+
+
+    </div>
+
+
+</body>
+
+</html>

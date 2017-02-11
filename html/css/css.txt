@@ -1,0 +1,31 @@
+.look {
+    color: red;
+}
+
+.upper {
+    color: black;
+}
+
+.middle {
+    color: yellow;
+}
+
+.slider {
+    color: blue;
+}
+
+.clientLogo {
+    color: pink;
+}
+
+.graphics {
+    color: orange;
+}
+
+.footer {
+    color: plum;
+}
+
+.footerEnd {
+    color: black;
+}
